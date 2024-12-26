@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808018152431",
+    "project_id": "personalassistant-60e88",
+    "storage_bucket": "personalassistant-60e88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808018152431:android:e58f1a51232d2ca475041a",
+        "android_client_info": {
+          "package_name": "com.example.personalassistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ge8-IGYTazrlHRScILfkwJfXEws0VZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
